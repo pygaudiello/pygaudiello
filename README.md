@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Paola Yêda!
 
-👀 Sou apaixonada por novas tecnologias e adoro explorar o universo da **Tecnologia**!  
+👀 Adoro explorar o universo da **Tecnologia**!  
 💻 Atualmente, estou cursando **MBA em Engenharia de Dados** e **Pós Tech em Full Stack Development**.  
 🌱 Mergulhada em **Dart**, **Flutter** e **Python** para expandir meus conhecimentos.  
 💞️ Gosto de colaborar em projetos de **desenvolvimento** e contribuir com **causas sociais**.  
