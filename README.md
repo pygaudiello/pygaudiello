@@ -1,8 +1,10 @@
-👋 **Olá! Sou a Paola Yêda!**  
-👀 Sou apaixonada por novas tecnologias e adoro explorar tudo sobre o universo de **Tecnologia**!  
-🌱 Atualmente, estou mergulhada em **Dart**, **Flutter** e **Python** para expandir meu conhecimento. 
-💻 Estou cursando MBA em Engenharia de Dados e Pós Tech em Full Stack Development.
-💞️ Estou sempre aberta a colaborar em projetos de **desenvolvimento** e contribuir com **causas sociais**.  
-📫 Vamos nos conectar? Você me encontra no [LinkedIn](https://www.linkedin.com/in/paola-yeda)!  
+# 👋 Olá! Eu sou a Paola Yêda!
+
+👀 Sou apaixonada por novas tecnologias e adoro explorar o universo da **Tecnologia**!  
+💻 Atualmente, estou cursando **MBA em Engenharia de Dados** e **Pós Tech em Full Stack Development**.  
+🌱 Mergulhada em **Dart**, **Flutter** e **Python** para expandir meus conhecimentos.  
+💞️ Gosto de colaborar em projetos de **desenvolvimento** e contribuir com **causas sociais**.  
+📱 Atualmente, estou construindo um **aplicativo para pessoas com TEA**.  
+📫 Vamos nos conectar? Me encontre no [LinkedIn](https://www.linkedin.com/in/paola-yeda)!  
 😄 **Pronomes:** ela/dela.  
-⚡ **Curiosidade:** Estou construindo um aplicativo para pessoas com **TEA** e tenho uma quedinha por **animais silvestres**!  
+🦜 **Curiosidade:** Tenho uma quedinha por **animais silvestres**!  
