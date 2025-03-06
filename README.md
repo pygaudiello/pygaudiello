@@ -1,6 +1,6 @@
 👋 **Olá! Sou a Paola!**  
-👀 Sou apaixonada por novas tecnologias e adoro explorar tudo sobre o universo **Mobile**!  
-🌱 Atualmente, estou mergulhada em **Dart**, **Flutter** e **Python** para expandir meu conhecimento.  
+👀 Sou apaixonada por novas tecnologias e adoro explorar tudo sobre o universo de **Tecnologia**!  
+🌱 Atualmente, estou mergulhada em **Dart**, **Flutter** e **Python** para expandir meu conhecimento. Também estou cursando MBA em Engenharia de Dados e Pós Tech em Full Stack Development.
 💞️ Estou sempre aberta a colaborar em projetos de **desenvolvimento** e contribuir com **causas sociais**.  
 📫 Vamos nos conectar? Você me encontra no [LinkedIn](https://www.linkedin.com/in/paola-yeda)!  
 😄 **Pronomes:** ela/dela.  
