@@ -7,4 +7,4 @@
 📱 Atualmente, estou construindo um **aplicativo para pessoas com TEA**.  
 📫 Vamos nos conectar? Me encontre no [LinkedIn](https://www.linkedin.com/in/paola-yeda)!  
 😄 **Pronomes:** ela/dela.  
-🦜 **Curiosidade:** Tenho uma quedinha por **animais silvestres**!  
+🦜 **Curiosidade:** Gosto de **animais silvestres** e de **jogos de carta**.
