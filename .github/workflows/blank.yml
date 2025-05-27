@@ -1,7 +1,7 @@
 # Nome da Action
 name: Snake Game
 
-# Controlador do tempo: atualização a cada 5 horas
+# Disparadores: agendamento a cada 5 horas ou manualmente
 on:
   schedule:
     - cron: "0 */5 * * *"
@@ -10,22 +10,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      # Faz checkout do repositório
+      # Checkout do repositório
       - uses: actions/checkout@v4
 
-      # Gera os arquivos do Snake Game
-      - uses: Platane/snk@v3.3.0 
-        id: snake-gif
+      # Geração do Snake Game
+      - uses: Platane/snk@v3.3.0  # Verifique se há versão mais recente: https://github.com/Platane/snk/releases
         with:
           github_user_name: pygaudiello
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
-      # Verifica o status do git (informativo)
+      # Verifica o status do git (opcional, informativo)
       - run: git status
 
-      # Faz push das alterações
+      # Faz push das alterações para o branch principal
       - name: Push changes
         uses: ad-m/github-push-action@v0.8.0
         with:
@@ -33,8 +35,8 @@ jobs:
           branch: main
           force: true
 
-      # Mensagem informativa
+      # Mensagem final informativa
       - name: Run a multi-line script
         run: |
-          echo "✅ Workflow concluído."
-          echo "🎯 Verifique os arquivos gerados na pasta 'dist' no branch 'main'."
+          echo "✅ Workflow concluído com sucesso!"
+          echo "🎯 Arquivos gerados: dist/github-contribution-grid-snake.svg e dist/github-contribution-grid-snake.gif"
