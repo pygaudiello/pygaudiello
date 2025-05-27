@@ -37,7 +37,8 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/pygaudiello/pygaudiello.git
-          git push origin main --force
+          git push origin main --force || (echo "Git push falhou com código $?"; git status; git log -1; exit 1)
+
 
       # Mensagem final informativa
       - name: Run a multi-line script
